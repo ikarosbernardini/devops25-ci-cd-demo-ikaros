@@ -54,3 +54,6 @@ Repositoryt är byggt för att kunna användas stegvis:
 ## Viktig fråga i varje steg
 
 > Vilket problem löser detta steg, och vad riskerar vi om steget saknas?
+
+
+1. *Dag 1:* Idag började vi att gå igenom start materialet och sätta upp våra miljöer samt forkat en egen version av demo repot för att ha som våran lab miljö. 
